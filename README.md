@@ -10,8 +10,8 @@ npm install -g typescript`
 ### Steps
 1. Clone the Repository (if you haven't already):
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/hrs4real/BackendServer-SlidelyTask.git
+cd BackendServer-SlidelyTask
 ```
 2. #### Install Dependencies:
 ```sh
