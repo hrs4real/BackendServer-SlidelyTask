@@ -5,7 +5,7 @@ This is a simple backend server application that uses Typescript, express, and n
 1. Node.js and npm installed on your machine.
 2. TypeScript installed globally (if not already installed):
 ```sh
-npm install -g typescript`
+npm install -g typescript
 ```
 ### Steps
 1. Clone the Repository (if you haven't already):
